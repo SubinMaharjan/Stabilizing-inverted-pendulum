@@ -1,2 +1,2 @@
 # Stabilizing-inverted-pendulum
-To run this file install opengym, tensorflow, numpy,and scipy
+To run file inv_pendulum.py, install opengym, tensorflow, numpy,and scipy
